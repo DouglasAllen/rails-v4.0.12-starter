@@ -33,7 +33,7 @@ In Rails, the Controller and View layers are handled together by Action Pack.
 These two layers are bundled in a single package due to their heavy interdependence.
 This is unlike the relationship between Active Record and Action Pack, which are
 independent. Each of these packages can be used independently outside of Rails. You
-can read more about Action Pack in its [README](actionpack/README.rdoc).
+can read more about Action Pack in its [README](https://github.com/DouglasAllen/rails-v4.0.12-starter/blob/master/vendor/bundle/ruby/2.2.0/gems/actionpack-4.0.12/README.rdoc).
 
 ## Getting Started
 
